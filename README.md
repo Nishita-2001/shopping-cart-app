@@ -4,6 +4,7 @@ A fully functional Shopping Cart Web Application built using the MERN stack (Mon
 This project includes product listing, cart management, authentication, and order handling — designed for learning full-stack development.
 
 🚀 Features
+
 -> Frontend (React + Vite / CRA)
 - Product listing page
 - Add to Cart / Remove from Cart
