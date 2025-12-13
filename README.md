@@ -64,3 +64,6 @@ Database
 
 MongoDB / MongoDB Atlas
 
+### How to run Code 
+First go client folder then run command :- npm run dev
+Second go server folder then run command :- npm run dev
